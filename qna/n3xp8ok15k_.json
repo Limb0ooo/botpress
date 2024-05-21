@@ -1,0 +1,23 @@
+{
+  "id": "n3xp8ok15k_",
+  "data": {
+    "action": "text",
+    "contexts": [
+      "global"
+    ],
+    "enabled": true,
+    "answers": {
+      "en": [
+        "Здравствуй, я бот уебот",
+        "Приветик"
+      ]
+    },
+    "questions": {
+      "en": [
+        "Привет"
+      ]
+    },
+    "redirectFlow": "",
+    "redirectNode": ""
+  }
+}
